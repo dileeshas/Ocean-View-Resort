@@ -1,4 +1,4 @@
-package com.OceanViewResort.Test;
+package com.OceanViewResort.TestDAO;
 
 import static org.junit.Assert.*;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.OceanViewResort.Test;
+package com.OceanViewResort.TestBeans;
 
 
 import static org.junit.Assert.*;
